@@ -17,7 +17,7 @@ dev_dependencies:
   test: ^1.6.0
   mockito: ^4.1.0
   tool_base_test:
-    git: https://github.com/mmcc007/tool_base_test.git
+    git: https://github.com/viktar-d/tool_base_test.git
 #    path: ../tool_base_test
   args: ^1.5.1
   quiver: ^2.0.5
